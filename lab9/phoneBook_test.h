@@ -8,7 +8,7 @@
 #undef main 
 
 #include <iostream>
-#include <cxxtest/TestSuite.h>
+#include </home/student/cxxtest/TestSuite.h>
 
 using namespace std;
 
